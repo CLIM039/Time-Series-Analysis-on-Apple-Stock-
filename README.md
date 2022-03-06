@@ -1,0 +1,2 @@
+# Time-Series-Analysis-on-Apple-Stock-
+This is the submitted assignment for the Specialized Models: Time Series and Survival Analysis by IBM in Coursera. In this assignment, the stock price of Apple (Ticker Symbol: AAPL) has been selected as the time series data. Time series analysis will be applied on the stock price of Apple, and we will evaluate various techniques to analyze as well as predicts the stock price of Apple.
